@@ -1,0 +1,6 @@
+server:
+  port: 7373
+
+
+
+logging.level.org.springframework.security: trace
